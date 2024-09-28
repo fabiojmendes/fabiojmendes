@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- vim: set tw=80: -->
 
-<!--
-**fabiojmendes/fabiojmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+My name is Fabio and welcome to my GitHub repo. I'm passionate about all things
+related to programming languages, hardware & software, and distributed systems.
+I’m also a homelabber and enjoy running various projects on my own
+infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm senior architect mostly working with Java Microservices, Kafka and a variety
+of different data stores like Redis, MySQL, OpenSearch, and Databricks.  So I
+use this space as a conduit to express my interests and creativity about
+embedded systems, hardware design, and low level programming that I don't get to
+do on my day job.
