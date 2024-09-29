@@ -13,31 +13,23 @@ use this space as a conduit to express my interests and creativity about
 embedded systems, hardware design, and low level programming that I don't get to
 do on my day job.
 
-## Worth Noting Projects and Repos
+## Noteworthy Projects and Repos
 
 ### Autosys
 
-Miscellaneous projects using, mainly rust, that have a component of embedded
-systems and custom PCB design. But nonetheless it is a distributed system using
-mqtt to wire up the various components. The motivation behind these is mostly to
-provide some level of automation to a commercial facility.  Check the
-[repo](https://github.com/fabiojmendes/Autosys) for more details
+Miscellaneous automation projects mainly using rust that have a component of
+embedded systems and custom PCB design. Nonetheless it is a distributed system
+using mqtt to wire up the various components. The motivation behind these is
+mostly to provide a level of automation to a commercial facility. Check
+[Autosys](https://github.com/fabiojmendes/Autosys) for more details.
 
 ### FabiOS
 
 Pandemic was in full swing so of course I had to implement my own operating
 system. Never really got much further than going through the bootloader piece
-and printing some text on the screen. But still a very interesting deep dive on
+and printing some text on the screen. Still a very interesting deep dive on
 the absolute **mess** that it is to initialize an x86 box.
-[repo](https://github.com/fabiojmendes/FabiOS)
-
-### Raft Rust
-
-A quick attempt at implementing the [Raft Consensus
-Protocol](https://en.wikipedia.org/wiki/Raft_(algorithm)) in rust. Mostly for
-self studies purposes and you guessed *pandemic*. It doesn't actually implement
-storage bit, the focus was more on the leader election part.
-[repo](https://github.com/fabiojmendes/raft-rust)
+Check [FabiOS](https://github.com/fabiojmendes/FabiOS) for more details.
 
 ### Super Jeff
 
@@ -52,4 +44,13 @@ the boss, so that alone made me feel accomplished.  It is also published to the
 From the technical side it was also a fun challenge. Probably my first rust
 program past the hello world stage. I also wanted to go for a more bare bones
 approach without using a full game engine so I also had to figure out a bit of
-math along the way. [repo](https://github.com/fabiojmendes/super-jeff)
+math along the way.
+Check [super-jeff](https://github.com/fabiojmendes/super-jeff) for more details.
+
+### Raft Rust
+
+A quick attempt at implementing the [Raft Consensus
+Protocol](https://en.wikipedia.org/wiki/Raft_(algorithm)) in rust. Mostly for
+self studies purposes and you guessed *pandemic*. It doesn't actually implement
+storage bit, the focus was more on the leader election part.
+Check [raft-rust](https://github.com/fabiojmendes/raft-rust) for more details.
