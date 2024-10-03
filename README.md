@@ -6,23 +6,22 @@ vim: tw=80
 
 My name is Fabio and welcome to my GitHub repo. I'm passionate about all things
 related to programming languages, hardware & software, and distributed systems.
-I’m also a homelabber and enjoy running various projects on my own
-infrastructure.
+As a home lab enthusiast, I also enjoy running on my own infrastructure.
 
-I'm senior architect mostly working with Java Microservices, Kafka, and a
-variety of different data stores like Redis, MySQL, OpenSearch, and Databricks.
-So I use this space as a conduit to express my interests and creativity about
-embedded systems, hardware design, and low level programming that I don't get to
-do on my day job.
+Professionally I am a senior architect with focus on complex distributed systems
+levering Kafka and a variety of different data stores like Redis, MySQL,
+OpenSearch, and Databricks. I use this space as a conduit to express my
+interests and creativity about embedded systems, hardware design, and low level
+programming that I don't get to do on my day job.
 
 ## Noteworthy Projects and Repos
 
 ### Autosys
 
-Miscellaneous automation projects mainly using rust that have a component of
-embedded systems and custom PCB design. Nonetheless, it is a distributed system
-using MQTT to wire up the various components. The motivation behind this is
-mostly to provide a level of automation to a commercial facility. Check
+Miscellaneous automation and IoT projects mainly using rust that have a
+component of embedded systems and custom PCB design. Nonetheless, it is a
+distributed system using MQTT to wire up its various components. The motivation
+behind it is to provide a level of automation to a commercial facility. Check
 [Autosys](https://github.com/fabiojmendes/Autosys) for more details.
 
 ### Super Jeff
@@ -53,7 +52,7 @@ absolute **mess** that it is to initialize an x86 box. Check
 ### Raft Rust
 
 A quick attempt at implementing the
-[Raft Consensus Protocol](<https://en.wikipedia.org/wiki/Raft_(algorithm)>) in
+[Raft Consensus Protocol](https://en.wikipedia.org/wiki/Raft_(algorithm)) in
 rust. Mostly for self studies purposes and you guessed _pandemic_. It doesn't
 actually implement storage bit, the focus was more on the leader election part.
 Check [raft-rust](https://github.com/fabiojmendes/raft-rust) for more details.
@@ -61,7 +60,7 @@ Check [raft-rust](https://github.com/fabiojmendes/raft-rust) for more details.
 ### Honorable Mentions
 
 - [riscv-bare-metal](https://github.com/fabiojmendes/riscv-bare-metal) how to
-  bootstrap a RISC-V microcontroller.
+  bootstrap a RISC-V microcontroller using rust and a bit of assembly.
 - [cfg](https://github.com/fabiojmendes/cfg) my dot files repository.
 - [nvim](https://github.com/fabiojmendes/nvim) my Neovim configuration based on
-  LazyVim
+  LazyVim.
