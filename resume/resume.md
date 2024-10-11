@@ -14,10 +14,10 @@ right-column:
 
 As a Software Engineer with over 20 years of experience, I have successfully
 navigated projects from developing embedded systems and programming
-microcontrollers to architecting and implementing globally distributed systems.
-I lead by example, prioritizing quality and sustainability in every project. My
-goal is to create robust systems that not only meet present requirements but are
-also adaptable for future needs.
+microcontrollers to architecting and implementing large scale distributed
+systems. I lead by example, prioritizing quality and sustainability in every
+project. My goal is to create robust systems that not only meet present
+requirements but are also adaptable for future needs.
 
 ## PROFESSIONAL EXPERIENCE
 
