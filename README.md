@@ -1,12 +1,10 @@
----
-vim: tw=80
----
+<!-- vim: set tw=80: -->
 
 # Hi there 👋
 
 My name is Fabio and welcome to my GitHub repo. I'm passionate about all things
 related to programming languages, hardware & software, and distributed systems.
-As a home lab enthusiast, I also enjoy running on my own infrastructure.
+As a home lab enthusiast, I also enjoy running my own infrastructure.
 
 Professionally I am a senior architect with focus on complex distributed systems
 levering Kafka and a variety of different data stores like Redis, MySQL,
@@ -18,7 +16,7 @@ programming that I don't get to do on my day job.
 
 ### Autosys
 
-Miscellaneous automation and IoT projects mainly using rust that have a
+Miscellaneous automation and IoT projects, mainly using Rust, that have a
 component of embedded systems and custom PCB design. Nonetheless, it is a
 distributed system using MQTT to wire up its various components. The motivation
 behind it is to provide a level of automation to a commercial facility. Check
@@ -36,15 +34,15 @@ me feel accomplished. The game is also published to the
 [arewegameyet](https://arewegameyet.rs/games/platformer/#super-jeff) website.
 
 From the technical point of view it was also a fun challenge. Probably my first
-rust program past the hello world stage. I also wanted to go for a bare-bones
+Rust program past the hello world stage. I also wanted to go for a bare-bones
 approach using only SDL to deal with multimedia stuff but without a full game
-engine Because of this, I also had to figure out a bit of math along the way.
+engine. Because of this, I also had to figure out a bit of math along the way.
 Check [super-jeff](https://github.com/fabiojmendes/super-jeff) for more details.
 
 ### FabiOS
 
-Pandemic was in full swing so of course I had to implement my own operating
-system. Never really got much further than going through the bootloader piece
+Pandemic was in full swing, so of course I had to implement my own operating
+system. Never really got much further than going through the bootloader process
 and printing some text on the screen. Still a very interesting deep dive on the
 absolute **mess** that it is to initialize an x86 box. Check
 [FabiOS](https://github.com/fabiojmendes/FabiOS) for more details.
@@ -53,9 +51,10 @@ absolute **mess** that it is to initialize an x86 box. Check
 
 A quick attempt at implementing the
 [Raft Consensus Protocol](https://en.wikipedia.org/wiki/Raft_(algorithm)) in
-rust. Mostly for self studies purposes and you guessed _pandemic_. It doesn't
-actually implement storage bit, the focus was more on the leader election part.
-Check [raft-rust](https://github.com/fabiojmendes/raft-rust) for more details.
+Rust. This project is mostly for self-study purposes and, you guessed it;
+_pandemic_ time activities. It doesn't actually implement the storage part; the
+focus was more on the leader election component. Check
+[raft-rust](https://github.com/fabiojmendes/raft-rust) for more details.
 
 ### Honorable Mentions
 
