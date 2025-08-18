@@ -21,7 +21,7 @@ requirements but are also adaptable for future needs.
 
 ## PROFESSIONAL EXPERIENCE
 
-### RubyLife – Senior Software Architect (Sep/2017 – Present)
+### RubyLife – Principal Software Architect (Sep/2017 – Present)
 
 As an architect, my main role is to provide technical leadership to the
 developers, ensuring alignment with the company's vision. Setting standards,
@@ -51,15 +51,15 @@ being an individual contributor by taking on the position of architect.
 
 ### PointClickCare – Senior Software Developer (Nov/2014 – Sep/2017)
 
-PointClickCare has a very strong SAS product in the LTPAC (Long Term Post Acute
+PointClickCare has a very strong SaaS product in the LTPAC (Long Term Post Acute
 Care) segment. My key responsibilities there as senior developer of one of the
-scrum teams was to handle the more technical challenging tasks, perform code
+scrum teams was to handle the more technically challenging tasks, perform code
 reviews and mentor other developers. Later on, with the focus on
 interoperability and to extend the platform, my team was involved on API and
 integration projects.
 
 - Technologies/Tools: Java, JEE, Web Development, Spring (Core, MVC and Boot),
-  MS Sql Server, REST APIs
+  MS SQL Server, REST APIs
 
 ### Navita Tecnologia Ltda - Senior Software Architect (Feb/2006 – Oct/2014)
 
@@ -75,7 +75,7 @@ twelve hours to just ten minutes.
 - Technologies/Tools: Java, Spring (Core, Integration Batch), Hibernate, JPA,
   NIO, TDD, DDD, PostgreSQL and Linux.
 
-2010 – 2013 Senior Software Architect
+2010 – 2013, Senior Software Architect
 
 After selling Navita Portal to a Spanish company, the focus shifted towards the
 telecom sector. We developed a new solution, Navita TEM (Telecom Expense
@@ -89,7 +89,7 @@ backend for processing.
 - Technologies/Tools: Java, Spring, Hibernate, JPA, Struts 2, Freemarker, REST,
   PostgreSQL, Linux and Multi-Tenancy.
 
-2007 – 2010 Software Architect
+2007 – 2010, Software Architect
 
 In 2007, Navita decided to invest in a complete redesign of its flagship
 product, Navita Content. The transition from ColdFusion to Java involved
@@ -106,7 +106,7 @@ successfully implemented this solution for their Internet portal.
   Freemarker, Web Services, Portlets (JSR 168), Javascript, Oracle, SQL Server,
   PostgreSQL, Glassfish, Weblogic, and JMeter.
 
-2006 – 2007 Software Developer
+2006 – 2007, Software Developer
 
 I started my career at Navita as a software developer, where I participated in
 various projects utilizing technologies such as Struts 1, JDBC, JavaScript, and
@@ -164,7 +164,7 @@ enhance internal communication.
 
 ## SKILLS
 
-- Languages: Java, Groovy, Javascript, TypeScript, HTML & CSS, Ruby, Python,
+- Languages: Java, Groovy, JavaScript, TypeScript, HTML & CSS, Ruby, Python,
   Objective C, Shell Scripting, C, C++, Go and Rust
 - Frameworks: Spring, Spring Boot, Java EE, Hibernate, Vuejs, Tokio, Cloudflare
   Workers
