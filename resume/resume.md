@@ -1,7 +1,7 @@
 ---
 name: Fabio Jackson Mendes
 left-column:
-  - 'Senior Architect located in Toronto'
+  - 'Principal architect located in Toronto'
   - 'Email: [fabiojmendes@gmail.com](mailto:fabiojmendes@gmail.com)'
   - 'Phone: +1 (416) 970-4938'
 right-column:
