@@ -2,17 +2,17 @@
 
 # Hi there 👋
 
-My name is Fabio and welcome to my GitHub repo. I'm passionate about all things
-related to programming languages, hardware & software, and distributed systems.
-As a home lab enthusiast, I also enjoy running my own infrastructure.
+My name is Fabio and welcome to my GitHub repository. I'm passionate about all
+things related to programming languages, hardware & software, and distributed
+systems. As a home lab enthusiast, I also enjoy running my own infrastructure.
 
 Professionally I am a senior architect with focus on complex distributed systems
-levering Kafka and a variety of different data stores like Redis, MySQL,
+leveraging Kafka and a variety of different data stores like Redis, MySQL,
 OpenSearch, and Databricks. I use this space as a conduit to express my
 interests and creativity about embedded systems, hardware design, and low level
 programming that I don't get to do on my day job.
 
-## Noteworthy Projects and Repos
+## Noteworthy projects and repositories
 
 ### Autosys
 
@@ -56,7 +56,7 @@ _pandemic_ time activities. It doesn't actually implement the storage part; the
 focus was more on the leader election component. Check
 [raft-rust](https://github.com/fabiojmendes/raft-rust) for more details.
 
-### Honorable Mentions
+### Honorable mentions
 
 - [riscv-bare-metal](https://github.com/fabiojmendes/riscv-bare-metal) how to
   bootstrap a RISC-V microcontroller using rust and a bit of assembly.
