@@ -12,6 +12,9 @@ OpenSearch, and Databricks. I use this space as a conduit to express my
 interests and creativity about embedded systems, hardware design, and low level
 programming that I don't get to do on my day job.
 
+I recently decided to start a blog, you can check it out at
+<https://blog.juzam.pro>.
+
 ## Noteworthy projects and repositories
 
 ### Autosys
